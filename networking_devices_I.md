@@ -1,5 +1,17 @@
 # Networking Devices I
 
+## What you need to know
+
+* Describe the purpose and functions of various network devices.
+
+* Select the components required to meet a network specification
+
+* Describe the components required for network and internet communication.
+
+* Interpret network diagrams
+
+* Differentiate between LAN/WAN operation and features
+
 ## All you need is a router! Right?
 
 Okay, okay, when you go into Best Buy and ask the man in the blue polo shirt that you need a router, he will happily lead you to the networking section. But that Super Turbo Triple Band Home Office Router 2000, is a little more then just a router.
@@ -58,7 +70,13 @@ So as I hinted earlier, in large organizations, these are broken up into separat
 
 Because home routers suck enough at all of them to use something else when it really matters. *Reliability matters when networks are big!*
 
+## Cisco IOS
+
+Everything has an operating system, on Cisco devices, the OS is called **Internetwork Operating System (IOS)**. Not to be confused by the IOS on an iPhone (Cisco did it first), the **Cisco IOS is a collection of operating systems for Cisco devices.**
+
 ### Layers of an OS
+
+As with many things in computers, the OS is also defined as a layer of abstractions. Blow are these layers broken down into their most common definitions.
 
 * Shell
   * User interface, can be a command line or a GUI. Anything that talks with a human.
@@ -67,11 +85,7 @@ Because home routers suck enough at all of them to use something else when it re
 * Hardware
   * The physical device.
 
-## Cisco IOS
-
-Everything has an operating system, on Cisco devices, the OS is called **Internetwork Operating System (IOS)**. Not to be confused by the IOS on an iPhone (Cisco did it first), the **Cisco IOS is a collection of operating systems for Cisco devices.**
-
-## Memory in Cisco device
+### Memory in Cisco device
 
 You have two types of memory in a device.
 **Flash memory** and **ram**.
